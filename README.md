@@ -1,6 +1,6 @@
 ### Hello there! I'm Diego 👋
 
-[![Website](https://img.shields.io/website?label=Connect%20@%20LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fdiego-paris%2F)](https://www.linkedin.com/in/diego-paris/)
+[![Website](https://img.shields.io/website?label=Connect%20@%20LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/diego-paris/)
 
 
 ## I'm a Student, Developer, Engineer and a Creator at heart!
