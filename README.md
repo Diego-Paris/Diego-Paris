@@ -1,7 +1,7 @@
 ### Hello there! I'm Diego 👋
 
-[![Website](https://img.shields.io/website?label=Connect%20@%20LinkedIn&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/diego-paris/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=Connect%20@%20LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/diego-paris/)
+
 
 ## I'm a Student, Developer, Engineer and a Creator at heart!
 
