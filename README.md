@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Connect%20@%20LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/diego-paris/)
 
-[![Website](https://img.shields.io/badge/connect%20with%20me%20%40-LinkedIn-%230077B5?logo=linkedin?style=for-the-badge)](https://www.linkedin.com/in/diego-paris/)
+[![Website](https://img.shields.io/badge/connect%20with%20me%20%40-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-paris/)
 
 ## I'm a Student, Developer, Engineer and a Creator at heart!
 
