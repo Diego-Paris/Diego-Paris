@@ -1,11 +1,12 @@
-### Hello there! I'm Diego 👋
+### Hello there! I'm Diego, welcome to my GitHub 👋
 
 [![Website](https://img.shields.io/website?label=Connect%20@%20LinkedIn&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/diego-paris/)
 
+[![Website](https://img.shields.io/badge/connect%20with%20me%20%40-LinkedIn-%230077B5?logo=linkedin?style=for-the-badge)](https://www.linkedin.com/in/diego-paris/)
 
 ## I'm a Student, Developer, Engineer and a Creator at heart!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
