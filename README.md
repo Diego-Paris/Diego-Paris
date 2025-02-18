@@ -14,4 +14,4 @@
 - 💻  Check out what I've been up to on my website [here](https://diegoparis.com).
 
 
-<div class="tenor-gif-embed" data-postid="26065234" data-share-method="host" data-aspect-ratio="0.803125" data-width="100%"><a href="https://tenor.com/view/laptop-gif-26065234">Laptop GIF</a>from <a href="https://tenor.com/search/laptop-gifs">Laptop GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/your-gif-url.gif" alt="Laptop GIF" width="100%">
