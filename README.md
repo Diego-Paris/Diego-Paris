@@ -1,7 +1,6 @@
-![Diego Paris - Software Engineering Student & Web Developer](./banner.png)
-
----
-
-### Hello there! Welcome to my GitHub 👋 
-
-[![Website](https://img.shields.io/badge/connect%20with%20me%20%40-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diego-paris/)
+<a href="https://github.com/Diego-Paris/Diego-Paris">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diego-Paris/Diego-Paris/main/preview-dark.png">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Diego-Paris/Diego-Paris/main/preview.png">
+  </picture>
+</a>
