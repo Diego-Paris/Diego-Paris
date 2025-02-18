@@ -12,7 +12,3 @@
 - 🤖  I’m a software engineer at Microsoft. I focus on developing C# code in Azure that helps build new cloud environments for governments where security is their top priority. This includes server-side programming, database administration, internal network configuration, and writing infrastructure-as-code for a highly distributed system.
 
 - 💻  Check out what I've been up to on my website [here](https://diegoparis.com).
-
-
-<img src="https://media.tenor.com/your-gif-url.gif" alt="Laptop GIF" width="100%">
-![wow](https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif)
