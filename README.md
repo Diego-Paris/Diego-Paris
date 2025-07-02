@@ -5,10 +5,17 @@
   </picture>
 </a>
 
-<h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Software Engineer @ Microsoft</h3>
-<h3 align="center">B.S. Software Engineering @ University of Puerto Rico</h3>
+# Hey 👋
 
-- 🤖  I’m a software engineer at Microsoft. I focus on developing C# code in Azure that helps build new cloud environments for governments where security is their top priority. This includes server-side programming, database administration, internal network configuration, and writing infrastructure-as-code for a highly distributed system.
+I'm Diego Paris, a software engineer at Microsoft and a reluctant writer. This is where I build, experiment, and work through problems in code.
 
-- 💻  Check out what I've been up to on my website [here](https://diegoparis.com).
+Find me on [LinkedIn](your-linkedin-url) and explore my thoughts at [my blog](https://diegoparis.com).
+
+---
+
+## What you'll find here
+- 🚀 Projects I'm building and experimenting with
+- 💡 Solutions to problems I've encountered
+- 📚 Code that reflects my learning journey
+
+Feel free to explore, fork, or reach out if anything catches your interest!
