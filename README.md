@@ -7,9 +7,11 @@
 
 # Hey 👋
 
-I'm Diego Paris, a software engineer at Microsoft and a reluctant writer. This is where I build, experiment, and work through problems in code.
+I'm Diego Paris, a software engineer at Microsoft.
 
-Find me on <a href="https://www.linkedin.com/in/diego-paris/" target="_blank">LinkedIn</a> and explore my thoughts at <a href="https://diegoparis.com" target="_blank">my blog</a>.
+I build things, break them, and learn how to make them scale.
+
+Connect with me on <a href="https://www.linkedin.com/in/diego-paris/" target="_blank">LinkedIn</a> and check out <a href="https://diegoparis.com" target="_blank">my website</a>.
 
 ---
 
