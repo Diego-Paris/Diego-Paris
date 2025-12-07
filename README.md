@@ -9,15 +9,15 @@
 
 I'm Diego Paris, a software engineer at Microsoft.
 
-I build things, break them, and learn how to make them scale.
+I build tools that help engineers ship with confidence.
 
 Connect with me on <a href="https://www.linkedin.com/in/diego-paris/" target="_blank">LinkedIn</a> and check out <a href="https://diegoparis.com" target="_blank">my website</a>.
 
 ---
 
-## What you'll find here
-- 🚀 Projects I'm building and experimenting with
-- 💡 Solutions to problems I've encountered
+**What you'll find here**
+- 🚀 Infra and automation experiments
+- 💡 Solutions that remove friction from engineering
 - 📚 Code that reflects my learning journey
 
 Feel free to explore, fork, or reach out if anything catches your interest!
