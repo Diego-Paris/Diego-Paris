@@ -9,7 +9,7 @@
 
 I'm Diego Paris, a software engineer at Microsoft.
 
-I care about the quality of work we put into our craft(coding).
+I care about the quality of work we put into our craft (coding).
 
 If you can relate to that, check out my work! I like to explore the new problems we face in the era of AI. Here you'll find some of my side projects, feel free to look around, ask any questions or contribute!
 
